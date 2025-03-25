@@ -2,25 +2,16 @@
 lang-ref: about
 title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/bdj-hp-about.jpg
+background: /assets/images/placeholders/hp-about.jpg
 imageLicense: |
-  Yu H, Zhang C, Lu Q, Lin Y (2024) A survey of Hersilia spiders (Araneae, Hersiliidae) from Xishuangbanna, Yunnan Province, China. Biodiversity Data Journal 12: e142805. [https://doi.org/10.3897/BDJ.12.e142805](https://doi.org/10.3897/BDJ.12.e142805)
+  Aristophanous M, Pittaway AR, Aristophanous A (2022) Rediscovery of _Clarina syriaca_ (Lederer, 1855) (Lepidoptera, Sphingidae, Macroglossinae) in Cyprus after 70 years; with notes on its biology and early life history from the Levant. Nota Lepidopterologica 45: 305-314. [https://doi.org/10.3897/nl.45.81819](https://doi.org/10.3897/nl.45.81819)
 height: 70vh
 ---
 
-This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Biodiversity Data Journal](https://bdj.pensoft.net/).
+This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Nota Lepidopterologica](https://nl.pensoft.net/).
 
-**Biodiversity Data Journal (BDJ)** is a community peer-reviewed, open access, comprehensive online platform, designed to accelerate publishing, dissemination and sharing of biodiversity-related data of any kind. All structural elements of the articles – text, morphological descriptions, occurrences, data tables etc. – will be treated and stored as data, in accordance with the Data [Publishing Policies and Guidelines of Pensoft Publishers](https://doi.org/10.3897/rio.3.e12431).
+**Nota Lepidopterologica** is the peer-reviewed journal of the Society for European Lepidopterology (SEL) published by Pensoft. As a society journal, we are committed to being a venue for publishing to our members; to bringing high-quality research to the scientific community interested in Lepidoptera through open access; and to providing these services using modern technology.
 
-The journal will publish papers in biodiversity science containing taxonomic, floristic/faunistic, morphological, genomic, phylogenetic, ecological or environmental data on any taxon of any geological era from any part of the world with no lower or upper limit to manuscript size. For example:
+We publish original research papers on taxonomy, morphology/anatomy, phylogenetics, biogeography, ecology, behaviour, conservation, and natural history of Lepidoptera, but also on any other aspects of lepidopterology. The journal is devoted mostly but not exclusively to Palaearctic Lepidoptera. Comprehensive studies in any of the above-mentioned areas are given preference over studies with a very limited scope. However, we also invite short contributions on important topics, such as invasive taxa, new records for large geographical areas, and other similar aspects. All papers are published in English, with a possibility ofthe summary in other languages in addition to English.
 
-* single taxon treatments and nomenclatural acts (e.g., new taxa, new taxon names, new synonyms, changes in taxonomic status, re-descriptions, etc.);
-* data papers describing biodiversity-related databases, including ecological and environmental data;
-* sampling reports, local observations or occasional inventories, if these contain novel data;
-* local or regional checklists and inventories;
-* habitat-based checklists and inventories;
-* ecological and biological observations of species and  communities;
-* any kind of identification keys, from conventional dichotomous to multi-access interactive online keys;
-* descriptions of biodiversity-related software tools.
-  
-For more information, you may look at the Editorial [Beyond dead trees: integrating the scientific process in the Biodiversity Data Journal](https://bdj.pensoft.net/articles.php?id=995) and press release [The Biodiversity Data Journal: Readable by humans and machines](http://www.eurekalert.org/pub_releases/2013-09/pp-tbd091613.php).
+All submitted manuscripts are assigned for evaluation to one of the members of our international editorial board formed by the leading specialists in the various fields of lepidopterology. The manuscripts that are of high enough quality are then sent to at least two qualified experts for peer-review.

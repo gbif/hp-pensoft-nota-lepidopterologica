@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Nota Lepidopterologica
+description: Browse data on GBIF associated with publications in Nota Lepidopterologica
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Koren T, Martinović M, Dender D (2020) The distribution and status of Sage Skipper _Muschampia proto_ (Ochsenheimer, 1808) (Lepidoptera, Hesperiidae) at the limit of its range in the north-western Balkans. Nota Lepidopterologica 43: 211-220. [https://doi.org/10.3897/nl.43.51660](https://doi.org/10.3897/nl.43.51660)"
 height: 75vh
 cta:
   - text: Datasets
